@@ -1,0 +1,50 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html,
+body {
+	height: 100%;
+}
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #333;
+	font-family: cursive;
+	line-height: 1.5;
+}
+
+#Menu {
+	position: relative;
+	border: none;
+	border-radius: 10em;
+	display: flex;
+	list-style: none;
+	background-color: #111;
+	box-shadow: 40px 40px 40px #000000;
+	border: 2px solid white;
+	padding: 10px;
+}
+
+a {
+	position: relative;
+	padding: 0.6em 2em;
+	font-size: 18px;
+	border: none;
+	outline: none;
+	color: #fff;
+	display: inline-block;
+	text-decoration: none;
+	z-index: 3;
+}
+
+a:hover {
+	border-radius: 15px;
+	background-color: green;
+	transition: all 0.2s ease-in-out;
+	transform: scale(1.1);
+}
