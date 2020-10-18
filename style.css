@@ -44,7 +44,7 @@ a {
 
 a:hover {
 	border-radius: 15px;
-	background-color: green;
+	background-color: rgb(158, 103, 0);
 	transition: all 0.2s ease-in-out;
 	transform: scale(1.1);
 }
