@@ -13,7 +13,7 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background-color: #333;
+	background-color: rgb(66, 65, 65);
 	font-family: cursive;
 	line-height: 1.5;
 }
@@ -44,7 +44,7 @@ a {
 
 a:hover {
 	border-radius: 15px;
-	background-color: rgb(158, 103, 0);
+	background-color: rgb(212, 148, 28);
 	transition: all 0.2s ease-in-out;
 	transform: scale(1.1);
 }
