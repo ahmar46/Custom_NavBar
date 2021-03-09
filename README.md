@@ -1,4 +1,4 @@
-### This Project is made for my Instagram Page - @electrifying_codes
+### Thi Project is made for my Instagram Page - @electrifying_codes
 
 ### Technologies Used - HTML & CSS
 
