@@ -4,4 +4,4 @@
 
 ### Follow Me on Instagram - @electrifying_codes.
 
-[Instagram] :https://www.instagram.com/electrifying_codes
+[instagram]: https://www.instagram.com/electrifying_codes
