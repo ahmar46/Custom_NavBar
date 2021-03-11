@@ -2,6 +2,6 @@
 
 ### Technologies Used - HTML & CSS.
 
-### Follow Me on Instagram - [@electrifying_codes][instagr].
+### Follow Me on Instagram - [@electrifying_codes][instagra].
 
 [instagram]: https://www.instagram.com/electrifying_codes
